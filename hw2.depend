@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1618069454 source:c:\users\casper\onedrive\masaüstü\cs201\hw2\program.cpp
+	<iostream>
+	<ctime>
+	<chrono>
+	<math.h>
+	<algorithm>
+
